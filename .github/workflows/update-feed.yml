@@ -87,7 +87,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-```
+cat > generate_rss.py << 'EOF'
 
 5. **提交修改**：
    - 滚动到底部
